@@ -3,7 +3,7 @@
 
 <h2 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=de1084&lines=Hola+guys,+I'm+Simran+Shah.;Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+with+me!;Thank+you!&font=Fira%20Code&&size=30center=true&width=750&height=80">
+<img src="https://readme-typing-svg.herokuapp.com?color=de1084&lines=Hola+guys,+I'm+Aman+Kumar+Singh.;Welcome+to++my+GitHub+Profile!;Feel+free+to+Connect+with+me!;Thank+you!&font=Fira%20Code&&size=30center=true&width=750&height=80">
 
 </h2>
 
